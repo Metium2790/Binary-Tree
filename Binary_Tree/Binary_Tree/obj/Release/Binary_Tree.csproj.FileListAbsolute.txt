@@ -1,0 +1,5 @@
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-33\UniProject-33\bin\Release\UniProject-33.exe.config
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-33\UniProject-33\bin\Release\UniProject-33.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-33\UniProject-33\bin\Release\UniProject-33.pdb
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-33\UniProject-33\obj\Release\UniProject-33.exe
+C:\Users\Meti\documents\visual studio 2012\Projects\UniProject-33\UniProject-33\obj\Release\UniProject-33.pdb
